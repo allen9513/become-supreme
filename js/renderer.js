@@ -721,7 +721,7 @@ export function drawGame(ctx, canvas, state) {
         ctx.fillText('Steer Left/Right to dodge obstacles', canvas.width / 2, canvas.height / 2 + 15);
         ctx.fillText('and gather ingredients using', canvas.width / 2, canvas.height / 2 + 40);
         ctx.fillText('left and righ arrow keys or tapping', canvas.width / 2, canvas.height / 2 + 65);
-        ctx.fillText('the right and left side of your screen', canvas.width / 2, canvas.height / 2 + 90);
+        ctx.fillText('the right and left side of your screen.', canvas.width / 2, canvas.height / 2 + 90);
         /*ctx.fillText('Assemble the ultimate pizza across 5 culinary stages!', canvas.width / 2, canvas.height / 2 - 35);
         ctx.fillText('Steer Left/Right to dodge obstacles and gather ingredients.', canvas.width / 2, canvas.height / 2 - 10);*/
 
